@@ -1,0 +1,18 @@
+colors to remove
+5ed0b1
+39c29d
+d2f2e9
+b7eadc
+5ccfb1
+
+switch to
+dark purple: #261d30
+light purple: #513f66
+light purple2: #88739e
+
+switch to
+dark blue: #0e113a
+slightly less dark blue: 111444
+light blue: #1d2264
+light blue2: #2d327a
+very light blue/gray: #a5a7c2
